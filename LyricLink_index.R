@@ -3,8 +3,8 @@ library(igraph)
 library(htmlwidgets)
 
 # 데이터 불러오기
-node_data2 <- read.csv("C:/Users/USER/Desktop/졸업작품/Code/R studio/LyricLink/r_node.csv", fileEncoding = "utf-8", stringsAsFactors = FALSE)
-edge_data2 <- read.csv("C:/Users/USER/Desktop/졸업작품/Code/R studio/LyricLink/r_edge.csv", fileEncoding = "utf-8", stringsAsFactors = FALSE)
+node_data2 <- read.csv("r_node.csv", fileEncoding = "utf-8", stringsAsFactors = FALSE)
+edge_data2 <- read.csv("r_edge.csv", fileEncoding = "utf-8", stringsAsFactors = FALSE)
 
 str(node_data2)
 
