@@ -1,0 +1,167 @@
+index,id,name,group,size,description
+0,0,Elvis Presley,Rock/Metal,15,"Elvis Presley
+15 mentioned"
+1,1,Eminem,Rap/Hiphop,1,"Eminem
+1 mentioned"
+2,2,Ariana Grande,POP,3,"Ariana Grande
+3 mentioned"
+3,3,Nickelback,Rock/Metal,1,"Nickelback
+1 mentioned"
+4,4,Bon Jovi,Rock/Metal,2,"Bon Jovi
+2 mentioned"
+5,5,Kanye West,Rap/Hiphop,3,"Kanye West
+3 mentioned"
+6,6,Katy Perry,POP,3,"Katy Perry
+3 mentioned"
+7,7,Cher,POP,1,"Cher
+1 mentioned"
+8,8,Carrie Underwood,Country,2,"Carrie Underwood
+2 mentioned"
+9,9,George Michael,POP,1,"George Michael
+1 mentioned"
+10,10,Duran Duran,Rock/Metal,1,"Duran Duran
+1 mentioned"
+11,11,Styx,Rock/Metal,1,"Styx
+1 mentioned"
+12,12,Alan Jackson,Country,1,"Alan Jackson
+1 mentioned"
+13,13,Elton John,Rock/Metal,5,"Elton John
+5 mentioned"
+14,14,Billy Joel,Rock/Metal,1,"Billy Joel
+1 mentioned"
+15,15,The Beatles,Rock/Metal,12,"The Beatles
+12 mentioned"
+16,16,Ed Sheeran,POP,2,"Ed Sheeran
+2 mentioned"
+17,17,Drake,Rap/Hiphop,5,"Drake
+5 mentioned"
+18,18,David Bowie,Rock/Metal,2,"David Bowie
+2 mentioned"
+19,19,Flo Rida,Rap/Hiphop,1,"Flo Rida
+1 mentioned"
+20,20,Justin Timberlake,POP,2,"Justin Timberlake
+2 mentioned"
+21,21,Ludacris,Rap/Hiphop,3,"Ludacris
+3 mentioned"
+22,22,Three Dog Night,Rock/Metal,1,"Three Dog Night
+1 mentioned"
+23,23,Rod Stewart,Rock/Metal,1,"Rod Stewart
+1 mentioned"
+24,24,Bob Dylan,Rock/Metal,3,"Bob Dylan
+3 mentioned"
+25,25,Michael Jackson,POP,9,"Michael Jackson
+9 mentioned"
+26,26,Jackson 5,R&B,1,"Jackson 5
+1 mentioned"
+27,27,Lil Wayne,Rap/Hiphop,3,"Lil Wayne
+3 mentioned"
+28,28,P!nk,POP,1,"P!nk
+1 mentioned"
+29,29,TLC,R&B,3,"TLC
+3 mentioned"
+30,30,Madonna,POP,8,"Madonna
+8 mentioned"
+31,31,U2,Rock/Metal,1,"U2
+1 mentioned"
+32,32,Michael Bolton,POP,1,"Michael Bolton
+1 mentioned"
+33,33,Bryan Adams,Rock/Metal,1,"Bryan Adams
+1 mentioned"
+34,34,JAY-Z,Rap/Hiphop,8,"JAY-Z
+8 mentioned"
+35,35,The Weeknd,R&B,2,"The Weeknd
+2 mentioned"
+36,36,50 Cent,Rap/Hiphop,5,"50 Cent
+5 mentioned"
+37,37,Linkin Park,Rock/Metal,1,"Linkin Park
+1 mentioned"
+38,38,Usher,R&B,7,"Usher
+7 mentioned"
+39,39,Nelly,Rap/Hiphop,2,"Nelly
+2 mentioned"
+40,40,Chris Brown,R&B,1,"Chris Brown
+1 mentioned"
+41,41,Beyonce,POP,7,"Beyonce
+7 mentioned"
+42,42,Jason Derulo,POP,1,"Jason Derulo
+1 mentioned"
+43,43,Stevie Wonder,R&B,2,"Stevie Wonder
+2 mentioned"
+44,44,Prince,POP,5,"Prince
+5 mentioned"
+45,45,The Beach Boys,Rock/Metal,1,"The Beach Boys
+1 mentioned"
+46,46,Taylor Swift,POP,3,"Taylor Swift
+3 mentioned"
+47,47,Marvin Gaye,R&B,5,"Marvin Gaye
+5 mentioned"
+48,48,Paul McCartney,Rock/Metal,4,"Paul McCartney
+4 mentioned"
+49,49,Janet Jackson,POP,4,"Janet Jackson
+4 mentioned"
+50,50,Rihanna,R&B,4,"Rihanna
+4 mentioned"
+51,51,Lady Gaga,POP,4,"Lady Gaga
+4 mentioned"
+52,52,R. Kelly,R&B,4,"R. Kelly
+4 mentioned"
+53,53,The Rolling Stones,Rock/Metal,3,"The Rolling Stones
+3 mentioned"
+54,54,Queen,Rock/Metal,2,"Queen
+2 mentioned"
+55,55,Alicia Keys,R&B,3,"Alicia Keys
+3 mentioned"
+56,56,Diana Ross,R&B,3,"Diana Ross
+3 mentioned"
+57,57,The Black Eyed Peas,Rap/Hiphop,3,"The Black Eyed Peas
+3 mentioned"
+58,58,Bobby Darin,POP,1,"Bobby Darin
+1 mentioned"
+59,59,James Brown,R&B,3,"James Brown
+3 mentioned"
+60,60,Bruce Springsteen,Rock/Metal,3,"Bruce Springsteen
+3 mentioned"
+61,61,Tom Petty And The Heartbreakers,Rock/Metal,3,"Tom Petty And The Heartbreakers
+3 mentioned"
+62,62,Rascal Flatts,Country,1,"Rascal Flatts
+1 mentioned"
+63,63,Britney Spears,POP,3,"Britney Spears
+3 mentioned"
+64,64,Celine Dion,POP,2,"Celine Dion
+2 mentioned"
+65,65,Mariah Carey,POP,2,"Mariah Carey
+2 mentioned"
+66,66,Bee Gees,POP,2,"Bee Gees
+2 mentioned"
+67,67,Phil Collins,Rock/Metal,2,"Phil Collins
+2 mentioned"
+68,68,Lionel Richie,R&B,2,"Lionel Richie
+2 mentioned"
+69,69,Chubby Checker,Rock/Metal,2,"Chubby Checker
+2 mentioned"
+70,70,Commodores,R&B,2,"Commodores
+2 mentioned"
+71,71,Post Malone,Rap/Hiphop,2,"Post Malone
+2 mentioned"
+72,72,Paula Abdul,POP,2,"Paula Abdul
+2 mentioned"
+73,73,Justin Bieber,POP,2,"Justin Bieber
+2 mentioned"
+74,74,Tim McGraw,Country,2,"Tim McGraw
+2 mentioned"
+75,75,Guns N'Roses,Rock/Metal,2,"Guns N'Roses
+2 mentioned"
+76,76,Peter Paul & Mary,POP,2,"Peter Paul & Mary
+2 mentioned"
+77,77,James Taylor,Rock/Metal,2,"James Taylor
+2 mentioned"
+78,78,Aerosmith,Rock/Metal,2,"Aerosmith
+2 mentioned"
+79,79,Miley Cyrus,POP,2,"Miley Cyrus
+2 mentioned"
+80,80,Eric Clapton,R&B,2,"Eric Clapton
+2 mentioned"
+81,81,Santana,Rock/Metal,2,"Santana
+2 mentioned"
+82,82,Garth Brooks,Country,2,"Garth Brooks
+2 mentioned"
