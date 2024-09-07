@@ -20,10 +20,10 @@ node_data2$size <- degree(graph)
 
 network <- forceNetwork(Links = edge_data2, Nodes = node_data2,
                         Source = 'source', Target = 'target',
-                        NodeID = 'name', Group = 'group', 
+                        NodeID = 'name', Group = 'genre', 
                         Nodesize = 'size', opacityNoHover = TRUE, zoom = TRUE, 
                         fontSize = 10, fontFamily = "Pretendard", opacity = 0.9, 
-                        linkDistance = 50, charge = -200,
+                        linkDistance = 100, charge = -800,
                         colourScale = JS(sprintf("d3.scaleOrdinal().domain(%s).range(%s);", 
                                                  jsonlite::toJSON(unique(node_data2$group)), 
                                                  jsonlite::toJSON(groupColors))))
