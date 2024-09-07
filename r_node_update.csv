@@ -1,0 +1,107 @@
+index,id,name,genre,size
+0,0,The Beatles,Rock/Metal,27
+1,1,Madonna,POP,20
+2,2,Elton John,Rock/Metal,5
+3,3,Elvis Presley,Rock/Metal,37
+4,4,Mariah Carey,POP,11
+5,5,Stevie Wonder,R&B,13
+6,6,Janet Jackson,POP,7
+7,7,Michael Jackson,POP,22
+8,8,Whitney Houston,POP,3
+9,9,Rihanna,R&B,13
+10,10,The Rolling Stones,Rock/Metal,9
+11,11,Paul McCartney,Rock/Metal,12
+12,12,Bee Gees,POP,1
+13,13,Usher,R&B,29
+14,14,The Supremes,R&B,2
+15,15,Hall & Oates,Rock/Metal,2
+16,16,Rod Stewart,Rock/Metal,0
+17,17,Olivia Newton-John,Country,0
+18,18,Drake,Rap/Hiphop,12
+19,19,Aretha Franklin,R&B,9
+20,20,Marvin Gaye,R&B,23
+21,21,Taylor Swift,POP,8
+22,22,Katy Perry,POP,7
+23,23,Phil Collins,Rock/Metal,3
+24,24,Billy Joel,Rock/Metal,2
+25,25,Diana Ross,R&B,11
+26,26,The Temptations,R&B,5
+27,27,Donna Summer,R&B,2
+28,28,The Beach Boys,Rock/Metal,2
+29,29,Bruno Mars,POP,3
+30,30,Neil Diamond,Rock/Metal,0
+31,31,Carpenters,POP,2
+32,32,Maroon 5,Rock/Metal,4
+33,33,Boyz II Men,R&B,6
+34,34,Beyonce,POP,14
+35,35,Brenda Lee,Rock/Metal,3
+36,36,Kenny Rogers,Country,1
+37,37,Barbra Streisand,POP,1
+38,38,Bryan Adams,Rock/Metal,1
+39,39,George Michael,POP,5
+40,40,The Black Eyed Peas,Rap/Hiphop,2
+41,41,P!nk,POP,3
+42,42,John Mellencamp,Rock/Metal,1
+43,43,Huey Lewis & The News,Rock/Metal,0
+44,44,Gloria Estefan,POP,1
+45,45,Bon Jovi,Rock/Metal,1
+46,46,Chubby Checker,Rock/Metal,1
+47,47,Ray Charles,R&B,11
+48,48,Chris Brown,R&B,8
+49,49,Gladys Knight & The Pips,R&B,6
+50,50,Duran Duran,Rock/Metal,1
+51,51,Justin Timberlake,POP,9
+52,52,Commodores,R&B,2
+53,53,Lady Gaga,POP,8
+54,54,TLC,R&B,14
+55,55,Paul Anka,POP,2
+56,56,Barry Manilow,POP,2
+57,57,Dionne Warwick,R&B,4
+58,58,Nelly,Rap/Hiphop,10
+59,59,The Everly Brothers,Rock/Metal,3
+60,60,R. Kelly,R&B,13
+61,61,James Brown,R&B,15
+62,62,Paula Abdul,POP,1
+63,63,Eminem,Rap/Hiphop,10
+64,64,Alicia Keys,R&B,7
+65,65,Kelly Clarkson,Rock/Metal,3
+66,66,Linda Ronstadt,POP,2
+67,67,Kanye West,Rap/Hiphop,15
+68,68,Celine Dion,POP,2
+69,69,JAY-Z,Rap/Hiphop,19
+70,70,Justin Bieber,POP,6
+71,71,Bruce Springsteen,Rock/Metal,6
+72,72,50 Cent,Rap/Hiphop,12
+73,73,Ed Sheeran,POP,5
+74,74,Post Malone,Rap/Hiphop,3
+75,75,Ariana Grande,POP,7
+76,76,The Weeknd,R&B,5
+77,77,Bob Dylan,Rock/Metal,7
+78,78,David Bowie,Rock/Metal,10
+79,79,Led Zeppelin,Rock/Metal,4
+80,80,Tim McGraw,Country,1
+81,81,Guns N' Roses,Rock/Metal,1
+82,82,George Harrison,Rock/Metal,5
+83,83,Ludacris,Rap/Hiphop,6
+84,84,Rascal Flatts,Country,0
+85,85,Styx,Rock/Metal,0
+86,86,Carrie Underwood,Country,2
+87,87,Lil Wayne,Rap/Hiphop,9
+88,88,Backstreet Boys,POP,4
+89,89,Tom Petty and the Heartbreakers,Rock/Metal,8
+90,90,Linkin Park,Rock/Metal,0
+91,91,James Taylor,Rock/Metal,4
+92,92,Pink Floyd,Rock/Metal,3
+93,93,Mary J. Blige,R&B,6
+94,94,Michael Bolton,POP,2
+95,95,Carole King,POP,4
+96,96,Aerosmith,Rock/Metal,4
+97,97,Van Halen,Rock/Metal,2
+98,98,U2,Rock/Metal,4
+99,99,Miley Cyrus,POP,8
+100,100,Britney Spears,POP,8
+101,101,Nickelback,Rock/Metal,0
+102,102,Garth Brooks,Country,3
+103,103,Flo Rida,Rap/Hiphop,1
+104,104,Jason Derulo,POP,2
+105,105,Paul Simon,Rock/Metal,0
